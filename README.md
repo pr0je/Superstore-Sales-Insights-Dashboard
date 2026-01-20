@@ -68,4 +68,9 @@ The dashboard includes five major analytical components:
 ---
 
 ## 📂 Repository Structure
+📦 superstore-sales-dashboard/
+├── data/ # Dataset files (optional if license allows)
+├── tableau-workbook/ # Tableau .twb or .twbx file
+├── images/ # Dashboard screenshots
+└── README.md # Project documentation
 
