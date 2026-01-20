@@ -77,7 +77,7 @@ Add screenshot in `/images` and reference it here:<img width="1350" height="736"
 
 If hosted on Tableau Public, add link here:
 
-👉 Tableau Public: *<[insert-link-here](https://public.tableau.com/shared/2QH2MYWMD?:display_count=n&:origin=viz_share_link)>*
+👉 Tableau Public: *<(https://public.tableau.com/shared/2QH2MYWMD?:display_count=n&:origin=viz_share_link)>*
 
 
 
