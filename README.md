@@ -66,3 +66,18 @@ The dashboard includes five major analytical components:
 | **Sample Superstore Dataset** | Primary data source |
 
 ---
+
+## 📸 Dashboard Preview
+
+Add screenshot in `/images` and reference it here:<img width="1350" height="736" alt="Superstore Sales Insights Dashboard" src="https://github.com/user-attachments/assets/60c296dc-0a1c-4c3e-8f45-db4ef9e6730f" />
+
+---
+
+## 🔗 Tableau Public Link
+
+If hosted on Tableau Public, add link here:
+
+👉 Tableau Public: *<[insert-link-here](https://public.tableau.com/shared/2QH2MYWMD?:display_count=n&:origin=viz_share_link)>*
+
+
+
